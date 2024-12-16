@@ -43,7 +43,7 @@ export const tweetsData = [
         replies: [
             {
                 handle: `@mariem ☣️`,
-                profilePic: `images/overflow.png`,
+                profilePic: `images/mariem.jpg`,
                 tweetText: `I hate you😡. You cheated me. Black friday sale has ended.`,
             },
             {
